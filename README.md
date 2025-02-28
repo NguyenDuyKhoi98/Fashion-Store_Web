@@ -190,9 +190,9 @@ server/
 ## 🤝 Đóng góp
 Mọi đóng góp đều được chào đón! Vui lòng:
 1. Fork repository
-2. Tạo branch mới (`git checkout -b feature/AmazingFeatureForKTTStore`)
-3. Commit changes (`git commit -m 'Add some AmazingFeatureForKTTStore'`)
-4. Push to branch (`git push origin feature/AmazingFeatureForKTTStore`)
+2. Tạo branch mới 
+3. Commit changes 
+4. Push to branch 
 5. Tạo Pull Request
 
 ## 📝 License
