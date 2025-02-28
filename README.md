@@ -201,3 +201,4 @@ Dự án được phân phối dưới giấy phép MIT. Xem `LICENSE` để bi�
 ## 📧 Liên hệ
 - Email: nguyenduykhoi45@gmail.com
 - GitHub: [@NguyenDuyKhoi98](https://github.com/NguyenDuyKhoi98)
+- link báo cáo Word, Powerpoint: https://drive.google.com/drive/folders/1gPKuUklq6eEGis8xeSOh8lcMyEcyU0kA?usp=drive_link
